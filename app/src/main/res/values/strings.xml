@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="btn">Jukebox</string>
+    <string name="artist">Artist</string>
+    <string name="title">Title</string>
+    <string name="url">URL</string>
+    <string name="nosong">No Song</string>
+    <string name="stopped">Stopped</string>
+    <string name="playBtn">"Play "</string>
+    <string name="pauseBtn">Pause</string>
+    <string name="requestBtn">Request</string>
+    <string name="helloMsg">Hello Message</string>
+</resources>
