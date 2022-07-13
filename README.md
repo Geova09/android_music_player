@@ -1,8 +1,6 @@
 ### Android Music Player
 ---
-A music player created with Android Studio.
-The fetching songs from external server via AsyncTask, with HTTP request are passing the XML response as a string.
-Using the mediaPlayer class.
+A music player was created with Android Studio. The fetching songs from a remote Web location via AsyncTask, with an HTTP request, are parsing the XML response as a string. Using the MediaPlayer class.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
